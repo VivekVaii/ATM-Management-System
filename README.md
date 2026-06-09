@@ -134,11 +134,26 @@ CREATE TABLE bank(
 
 ## Screenshots
 
-Add screenshots of:
-- Login Screen
-- Signup Form
-- ATM Transaction Screen
-- Mini Statement Screen
+### Login Screen
+![Login Screen](screenshots/login.png)
+
+### Signup Page 1
+![Signup Page 1](screenshots/signup%20page%201.png)
+
+### Signup Page 2
+![Signup Page 2](screenshots/signup%20page%202.png)
+
+### Signup Page 3
+![Signup Page 3](screenshots/signup%20page%203.png)
+
+### Transaction Menu
+![Transaction Menu](screenshots/transaction.png)
+
+### Fast Cash
+![Fast Cash](screenshots/fastcash.png)
+
+### Mini Statement
+![Mini Statement](screenshots/ministatement.png)
 
 ## Future Enhancements
 
